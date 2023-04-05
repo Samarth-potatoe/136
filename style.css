@@ -39,3 +39,8 @@ canvas
     margin-top: 130px;
     box-shadow: 5px 5px 5px white;
 }
+
+h4
+{
+  font-weight: bold;
+}
